@@ -3,10 +3,3 @@ Name=en*
 
 [Network]
 DHCP=ipv4
-LLDP=no
-EmitLLDP=no
-LinkLocalAddressing=no
-IPv6AcceptRA=no
-
-[DHCPv4]
-UseMTU=true
