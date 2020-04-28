@@ -1,6 +1,6 @@
 SNAPSHOT_DATE=`date -d 'today' '+%Y%m%d'`
 IMAGE_BASENAME=garden-linux
-VERSION=40-2-nachev
+VERSION=40-2-nachev2
 
 all: all_dev all_prod
 
